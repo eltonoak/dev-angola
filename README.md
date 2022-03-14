@@ -65,7 +65,7 @@ Sinta-se livre para contribuir com o projecto. Veja aqui [Como contribuir](contr
 ### Uige
 30. [UNIKIVI](https://unikivi.net) - Universidade Kimpa Vita (*Pública*), curso de **Engenharia Informática**.
 ### Zaire
-31 [UON](https://uon.ed.ao) - Universidade 11 de Novembro (*Pública*), curso de **Engenharia Informática**.
+31. [UON](https://uon.ed.ao) - Universidade 11 de Novembro (*Pública*), curso de **Engenharia Informática**.
 
 ## Centros de Formação Profissional
 Alguns Centros de Formação para se profissionalizar como Dev em Angola:
@@ -74,4 +74,18 @@ Alguns Centros de Formação para se profissionalizar como Dev em Angola:
 - [Buka](https://bukaapp.com) - Buka
 - [CINFOTEC](https://cinfotec.gov.ao) - Centro Integrado de Formação Tecnológica
 
+## Criador ✨
+
+<div>
+      <a href="https://github.com/kamuango-elton">
+        <img
+          src="https://github.com/kamuango-elton.png"
+          width="60px;" alt="kamuango-elton" />
+        <br />
+	<p>Elton Kamuango</p>
+      </a>
+</div>
+<br>
+
+### Licença
 > Este projeto está licenciado nos termos da licença MIT.
