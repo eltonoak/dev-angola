@@ -48,25 +48,24 @@ Sinta-se livre para contribuir com o projecto. Veja aqui [Como contribuir](contr
 
 
 ### Benguela
-18. [ISP Jean Piaget de Benguela](http://piaget-benguela.org) - Instituto Superior Politécnico Jean Piaget de Benguela, curso de **Engenharia Informática e Gestão**.
-19. [ULA](http://isplusiadabenguela.ed.ao) - Universidade Lusíadas de Angola, curso de **Engenharia Informática**.
-20. [UKB](http://ukb.ed.ao) - Universidade Katyavala Bwila, curso de **Ciências da Computação**.
+21. [ISP Jean Piaget de Benguela](http://piaget-benguela.org) - Instituto Superior Politécnico Jean Piaget de Benguela, curso de **Engenharia Informática e Gestão**.
+22. [ULA](http://isplusiadabenguela.ed.ao) - Universidade Lusíadas de Angola, curso de **Engenharia Informática**.
+23. [UKB](http://ukb.ed.ao) - Universidade Katyavala Bwila, curso de **Ciências da Computação**.
 ### Bié
-21. [UNIC](https://www.unic.co.ao) - Universidade Internacional do Cuanza, curso de **Engenharia Informática**.
+24. [UNIC](https://www.unic.co.ao) - Universidade Internacional do Cuanza, curso de **Engenharia Informática**.
 ### Cabinda
-22. [UPRA](https://upra.ao) - Universidade Privada de Angola, curso de **Engenharia Informática**.
-### Huambo
-23. [ISPH](https://) - Instituto Superior Politécnico do Huambo, curso de **Engenharia Informática**.
-24. [ULA](http://www.isplusiadahuambo.ed.ao) - Universidade Lusíadas de Angola, curso de **Engenharia Informática**.
-25. [ISPC](https://www.ispcaala.com) - Instituto Superior Politecnico da Caala, curso de **Ciências da Computação**.
-### Huila
 25. [UPRA](https://upra.ao) - Universidade Privada de Angola, curso de **Engenharia Informática**.
+### Huambo
+26. [ULA](http://www.isplusiadahuambo.ed.ao) - Universidade Lusíadas de Angola, curso de **Engenharia Informática**.
+27. [ISPC](https://www.ispcaala.com) - Instituto Superior Politecnico da Caala, curso de **Ciências da Computação**.
+### Huila
+28. [UPRA](https://upra.ao) - Universidade Privada de Angola, curso de **Engenharia Informática**.
 ### Namibe
-26. [UPRA](https://upra.ao) - Universidade Privada de Angola, curso de **Engenharia Informática**.
+29. [UPRA](https://upra.ao) - Universidade Privada de Angola, curso de **Engenharia Informática**.
 ### Uige
-27. [UNIKIVI](https://unikivi.net) - Universidade Kimpa Vita P, curso de **Engenharia Informática**.
+30. [UNIKIVI](https://unikivi.net) - Universidade Kimpa Vita P, curso de **Engenharia Informática**.
 ### Zaire
-28 [UON](https://uon.ed.ao) - Universidade 11 de Novembro P, curso de **Engenharia Informática**.
+31 [UON](https://uon.ed.ao) - Universidade 11 de Novembro P, curso de **Engenharia Informática**.
 
 ## Centros de Formação Profissional
 Alguns Centros de Formação para se profissionalizar como Dev em Angola:
