@@ -25,8 +25,8 @@ Aqui são listadas Instituições de Ensino Superior e Centros de Formação Pro
 Sinta-se livre para contribuir com o projecto. Veja aqui [Como contribuir](contribuindo.md).
 ## Universidades e Institutos Superiores
 ### Luanda
-1. [UAN](https://uan.ao/) - Universidade Agostinho Neto P, cursos de **Engenharia Informática** e **Ciencias da Computação**.
-2. [ISUTIC](https://isutic.gov.ao) - Instituto Superior para as Tecnologias da Informação e Comunicação P, curso de **Engenharia Informática**.
+1. [UAN](https://uan.ao/) - Universidade Agostinho Neto (*Pública*), cursos de **Engenharia Informática** e **Ciencias da Computação**.
+2. [ISUTIC](https://isutic.gov.ao) - Instituto Superior para as Tecnologias da Informação e Comunicação (*Pública*), curso de **Engenharia Informática**.
 3. [UCAN](http://ucan.edu/) - Universidade Católica de Angola, curso de **Engenharia Informática**.
 4. [UMA](https://uma.co.ao) - Universidade Metodista de Angola, curso de **Engenharia Informática**.
 5. [UniPiaget](https://unipiaget-angola.org) - Universidade Jean Piaget Angola, curso de **Informática e Gestão**.
@@ -63,9 +63,9 @@ Sinta-se livre para contribuir com o projecto. Veja aqui [Como contribuir](contr
 ### Namibe
 29. [UPRA](https://upra.ao) - Universidade Privada de Angola, curso de **Engenharia Informática**.
 ### Uige
-30. [UNIKIVI](https://unikivi.net) - Universidade Kimpa Vita P, curso de **Engenharia Informática**.
+30. [UNIKIVI](https://unikivi.net) - Universidade Kimpa Vita (*Pública*), curso de **Engenharia Informática**.
 ### Zaire
-31 [UON](https://uon.ed.ao) - Universidade 11 de Novembro P, curso de **Engenharia Informática**.
+31 [UON](https://uon.ed.ao) - Universidade 11 de Novembro (*Pública*), curso de **Engenharia Informática**.
 
 ## Centros de Formação Profissional
 Alguns Centros de Formação para se profissionalizar como Dev em Angola:
