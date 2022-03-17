@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/style.css">
+  <title>Dev Angola</title>
+</head>
+
+<body>
+  <div class="contentor">
+    <header>
+      <h1>Dev Angola</h1>
+      <nav>
+        <ul>
+          <li><a href="#sobre">Sobre</a></li>
+        </ul>
+      </nav>
+    </header>
+    <section class="universidades">
+      <h2 class="texto-centro">Universidades e Institutos Superiores</h2>
+      <Section class="filtros">
+        Filtrar por:
+        <select name="provincia" class="prov">
+          <option value="Luanda">Província</option>
+        </select>
+        <select name="cursos" class="cursoFiltro">
+          <option value="">Curso</option>
+          <option value="Engenharia Informática">Engenharia Informática</option>
+          <option value="Ciências da Computação">Ciências da Computação</option>
+        </select>
+      </section>
+      <div class="resumo">Instituições encontradas:
+        <nav class="total"></nav>
+        em <nav class="provincias"></nav>
+        Provincias
+      </div>
+      <div class="cartao-modelo">
+        <h3 class="titulo-cartao texto-centro"></h3>
+        <div class="corpo-cartao">
+          <p class="cursos"><span>Cursos:</span> </p>
+          <p class="provincia"><span>Província:</span></p>
+          Site Oficial: <a href="#" class="website"></a>
+        </div>
+      </div>
+    </section>
+    <section id="sobre" class="sobre">
+      Está em Angola e deseja saber onde se especializar como <strong>dev</strong>? Está num bom lugar.
+      Aqui são listadas Instituições de Ensino Superior e Centros de Formação Profissional em Angola para te ajudar a
+      alcançar os seus objectivos.
+
+      Sinta-se livre para contribuir com o projecto.
+    </section>
+    <footer>
+      <p>&copy; 2022 - <a href="http://github.com/kamuango-elton/dev-angola">Dev Angola</a></p>
+    </footer>
+  </div>
+  <script src="databases/universidades.json"></script>
+  <script src="js/main.js"></script>
+  <!-- <script src="js/main.js"></script> -->
+</body>
+
+</html>
