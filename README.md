@@ -1,5 +1,9 @@
 # dev-angola
+## Preview
+![Desktop preview](images/desktop.png)
 
+## Abrir a pagina
+[Abrir a página](https://kamuango-elton.github.io/dev-angola/)
 ## Conteúdo
 
 - [Dev Angola](#dev-angola)
