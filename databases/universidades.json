@@ -1,0 +1,234 @@
+todas = [[
+  // Luanda
+  {
+    "identificacao": "UAN",
+    "nome":"Universidade Agostinho Neto",
+    "cursos":["Engenharia Informática","Ciências da Computação"],
+    "provincia":"Luanda",
+    "website":"https://uan.ao"
+  },
+  {
+    "identificacao": "ISUTIC",
+    "nome":"Instituto Superior para as Tecnologias da Informação e Comunicação",
+    "cursos":["Engenharia Informática"],
+    "provincia":"Luanda",
+    "website":"https://isutic.gov.ao"
+  },
+  {
+    "identificacao": "UCAN",
+    "nome":"Universidade Católica de Angola",
+    "cursos":["Engenharia Informática"],
+    "provincia":"Luanda",
+    "website":"http://ucan.edu"
+  },
+  {
+    "identificacao": "UMA",
+    "nome":"Universidade Metodista de Angola",
+    "cursos":["Engenharia Infrormática"],
+    "provincia":"Luanda",
+    "website":"https://uma.co.ao"
+  },
+  {
+    "identificacao": "UniPiaget",
+    "nome":"Universidade Jean Piaget Angola",
+    "cursos":["Engenharia Informática e Gestão"],
+    "provincia":"Luanda",
+    "website":"https://unipiaget-angola.org"
+  },
+  {
+    "identificacao": "ISTM",
+    "nome":"Instituto Superior Técnico Militar",
+    "cursos":["Engenharia Informática"],
+    "provincia":"Luanda",
+    "website":"https://istm-faa.co.ao"
+  },
+  {
+    "identificacao": "ISPTEC",
+    "nome":"Instituto Superior Politécnico de Tecnologias e Ciências",
+    "cursos":["Engenharia Informática"],
+    "provincia":"Luanda",
+    "website":"https://isptec.co.ao"
+  },
+  {
+    "identificacao": "IMETRO",
+    "nome":"Instituto Metropolitano",
+    "cursos":["Ciências da Computação"],
+    "provincia":"Luanda",
+    "website":"http://imetroangola.com"
+  },
+  {
+    "identificacao": "UGS",
+    "nome":"Universidade Gregório Semedo",
+    "cursos":["Engenharia Informática","Informática de Gestão"],
+    "provincia":"Luanda",
+    "website":"https://ugs.ed.ao"
+  },
+  {
+    "identificacao": "UTANGA",
+    "nome":"Universidade Técnica de Angola",
+    "cursos":["Engenharia Informática"],
+    "provincia":"Luanda",
+    "website":"https://utanga.co.ao/portal"
+  },
+  {
+    "identificacao": "UPRA",
+    "nome":"Universidade Privada de Angola",
+    "cursos":["Engenharia Informática"],
+    "provincia":"Luanda",
+    "website":"https://upra.ao"
+  },
+  {
+    "identificacao": "ISTA",
+    "nome":"Instituto Superior Técnico de Angola",
+    "cursos":["Engenharia Informática"],
+    "provincia":"Luanda",
+    "website":"https://istangola.online"
+  },
+  {
+    "identificacao": "UNIBELAS",
+    "nome":"Universidade de Belas",
+    "cursos":["Engenharia Informática"],
+    "provincia":"Luanda",
+    "website":"https://unibelas.ga"
+  },
+  {
+    "identificacao": "UNIA",
+    "nome":"Universidade Independente de Angola",
+    "cursos":["Engenharia Informática"],
+    "provincia":"Luanda",
+    "website":"http://unia.ao"
+  },
+  {
+    "identificacao": "ISPOCA",
+    "nome":"Instituto Superior Politécnico do Cazenga",
+    "cursos":["Engenharia Informática"],
+    "provincia":"Luanda",
+    "website":"https://ispoca.ed.ao"
+  },
+  {
+    "identificacao": "ISIA",
+    "nome":"Instituto Superior Politécnico Internacional de Angola",
+    "cursos":["Engenharia Informática"],
+    "provincia":"Luanda",
+    "website":"https://isia.co.ao"
+  },
+  {
+    "identificacao": "ULA",
+    "nome":"niversidade Lusíadas de Angola",
+    "cursos":["Engenharia Informática"],
+    "provincia":"Luanda",
+    "website":"https://ula.co.ao"
+  },
+  {
+    "identificacao": "ISKA",
+    "nome":"Instituto Superior Politécnico de Kangonjo",
+    "cursos":["Engenharia Informática"],
+    "provincia":"Luanda",
+    "website":"https://iskaluanda.net"
+  },
+  {
+    "identificacao": "ISPK",
+    "nome":"Instituto Superior Politécnico Katangoji",
+    "cursos":["Engenharia Informática"],
+    "provincia":"Luanda",
+    "website":"https://ispk.co.ao"
+  },
+  {
+    "identificacao": "ISA",
+    "nome":"Instituto Superior de Angola",
+    "cursos":["Engenharia Informática"],
+    "provincia":"Luanda",
+    "website":"https://isa.ao"
+  }
+],
+// Benguela
+[
+  {
+    "identificacao": "ISP JPB",
+    "nome":"Instituto Superior Politécnico Jean Piaget de Benguela",
+    "cursos":["Engenharia Informática e Gestão"],
+    "provincia":"Benguela",
+    "website":"http://piaget-benguela.org"
+  }, 
+  {
+    "identificacao": "ISPLB",
+    "nome":"Instituto Superior Politécnico Lusiadas de Benguela",
+    "cursos":["Engenharia Informática"],
+    "provincia":"Benguela",
+    "website":"http://isplusiadabenguela.ed.ao"
+  }, 
+  {
+    "identificacao": "UKB",
+    "nome":"Universidade Katyavala Bwila",
+    "cursos":["Ciências da Computação"],
+    "provincia":"Benguela",
+    "website":"http://ukb.ed.ao"
+  }
+],
+// Bie
+[
+  {
+    "identificacao": "UNIC",
+    "nome":"Universidade Internacional do Cuanza",
+    "cursos":["Engenharia Informática"],
+    "provincia":"Bie",
+    "website":"https://www.unic.co.ao"
+  }
+],
+[//Cabinda
+  {
+  "identificacao": "UPRA",
+  "nome":"Universidade Privada de Angola",
+  "cursos":["Engenharia Informática"],
+  "provincia":"Cabinda",
+  "website":"https://upra.ao"
+}],
+[//Huambo
+  {
+  "identificacao": "ISPLH",
+  "nome":"Instituto Superior Politécnico Lusíadas do Huambo",
+  "cursos":["Engenharia Informática"],
+  "provincia":"Huambo",
+  "website":"http://www.isplusiadahuambo.ed.ao"
+},
+{
+  "identificacao": "ISPC",
+  "nome":"Instituto Superior Politécnico da Caála",
+  "cursos":["Ciências da Computação"],
+  "provincia":"Huambo",
+  "website":"https://www.ispcaala.com"
+}
+],
+[//Huila
+  {
+    "identificacao": "UPRA",
+    "nome":"Universidade Privada de Angola",
+    "cursos":["Engenharia Informática"],
+    "provincia":"Huila",
+    "website":"https://upra.ao"
+  }],
+[//Namibe
+  {
+  "identificacao": "UPRA",
+  "nome":"Universidade Privada de Angola",
+  "cursos":["Engenharia Informática"],
+  "provincia":"Namibe",
+  "website":"https://upra.ao"
+}],
+[ // Uige
+  {
+  "identificacao": "UNIKIVI",
+  "nome":"Universidade Kimpa Vita",
+  "cursos":["Engenharia Informática"],
+  "provincia":"Uige",
+  "website":"https://unikivi.net"
+}],
+[ // Zaire
+  {
+  "identificacao": "UON",
+  "nome":"Universidade 11 de Novembro",
+  "cursos":["Engenharia Informática"],
+  "provincia":"Zaire",
+  "website":"https://uon.ed.ao"
+}]
+]

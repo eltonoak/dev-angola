@@ -1,0 +1,90 @@
+*,
+::after,
+::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  font-size: 62.5%;
+}
+body {
+  width: 100vw;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 1.4rem;
+}
+ul {
+  list-style: none;
+}
+li,
+a {
+  text-decoration: none;
+  color: #7c7794;
+}
+.contentor {
+  width: 100%;
+  display: grid;
+  grid-template-rows: 5rem 1fr;
+  justify-items: center;
+}
+header {
+  width: 100%;
+  height: 100%;
+  background-color: #c1c1c1;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 5%;
+}
+.universidades {
+  width: 90%;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-auto-rows: minmax(fit_content, 10rem);
+  justify-items: center;
+  gap: 3rem;
+}
+.filtros {
+  display: flex;
+}
+.resumo {
+  display: flex;
+}
+.resumo > * {
+  margin: 0 0.3rem;
+}
+.cartao-modelo {
+  width: 100%;
+  height: 100%;
+  background-color: #e0dddd;
+  margin-bottom: 10rem;
+  padding: 1rem;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 8rem 1fr;
+  gap: 1rem;
+  border-radius: 1rem;
+}
+.titulo-cartao {
+  font-size: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.corpo-cartao {
+  font-size: 1.9rem;
+}
+.sobre {
+  width: 90%;
+  margin: 2rem 0;
+}
+footer {
+  padding: 2rem;
+}
+
+.ocultar {
+  display: none;
+}
+.texto-centro {
+  text-align: center;
+}
