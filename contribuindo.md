@@ -5,8 +5,10 @@ Este é o guia base para contribuir para esse projecto. Note que é necessário 
 Caso deseje fazer a contribuição de forma local:
   1. Clone o repositório <code>git clone https://github.com/kamuango-elton/dev-angola.git</code>
   2. Navegue até o directório criado `cd dev-angola`
-  3. Edite o arquivo **readme.md**
+  3. Edite o arquivo **universidades.json** que está no directório `databases` para adicionar uma Instituição nova.
+  4. Adicione a instituição na província correcta.
+  5. Ou faça outros tipos de contribuição que desejar.
 ## Contribuindo directamente
-1. Clique no ficheiro **readme.md**
-2. Clique no ícone editar
-3. Edite o ficheiro, realizando a sua contribuição.
+1. Abra o arquivo **universidades.json** que está no directório `databases` para adicionar uma Instituição nova.
+2. Adicione a instituição na província correcta.
+3. Ou faça outros tipos de contribuição que desejar.
