@@ -139,6 +139,13 @@ todas = [[
     "cursos":["Engenharia Informática"],
     "provincia":"Luanda",
     "website":"https://isa.ao"
+  },
+  {
+    "identificacao": "ISAF",
+    "nome":"Instituto Superior de Administração e Finanças",
+    "cursos":["Informática de Gestão Financeira"],
+    "provincia":"Luanda",
+    "website":"https://www.academiabai.co.ao"
   }
 ],
 // Benguela
